@@ -1,3 +1,3 @@
-# Linux Setup
+# macOS Setup
 
-Welcome to my setup script for GNU/Linux. Here you will find everything I use to automate my Linux installation as much as possible. This will be split in Arch and Debian based Distro.
+Welcome to my setup script for macOS. Here you will find everything I use to automate my macOS installation as much as possible. This is currently for my Intel Based macBook Pro from the year 2018.
